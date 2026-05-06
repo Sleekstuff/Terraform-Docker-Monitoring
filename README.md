@@ -1,1 +1,1 @@
-Local Monitoring Tool Dockerized with Terraform
+Local Monitoring Tool Dockerized made with Terraform
